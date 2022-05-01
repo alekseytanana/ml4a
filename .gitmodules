@@ -7,6 +7,7 @@
 [submodule "ml4a/models/submodules/neural_style"]
 	path = ml4a/models/submodules/neural_style
 	url = https://github.com/alekseytanana/neural_style
+	branch = debug
 [submodule "ml4a/models/submodules/deepdream"]
 	path = ml4a/models/submodules/deepdream
 	url = https://github.com/genekogan/deepdream
